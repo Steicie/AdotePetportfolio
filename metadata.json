@@ -1,0 +1,6 @@
+{
+  "name": "AdotePet - Portfolio & Case Study",
+  "description": "Portfólio interativo do aplicativo AdotePet: Rede social mobile para adoção responsável e bem-estar animal inspirada no modelo de negócio e identidade visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
